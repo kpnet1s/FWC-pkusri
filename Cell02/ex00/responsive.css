@@ -26,3 +26,13 @@ th, td {
     height: 100px;
 }
 
+.third-cell {
+    background-color: rgb(9, 20, 123);
+    height: 100px;
+}
+
+.fourth-cell {
+    background-color: rgb(226, 64, 175);
+    height: 100px;
+}
+
